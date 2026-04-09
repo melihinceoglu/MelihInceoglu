@@ -1,11 +1,6 @@
 # 👋 Hi, I'm Melih INCEOGLU  
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&lines=Project+Manager;Test+Automation+Engineer;QA+%7C+DevOps+Enthusiast;Agile+Team+Leader" />
-</p>
-
 ---
-
 ## 🚀 About Me
 
 📍 Turkey  

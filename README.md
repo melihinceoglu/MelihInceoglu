@@ -39,14 +39,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MelihInceoglu&theme=algolia&no-frame=true&margin-w=10" />
-</p>
-
----
-
 ## 🧰 Tools & Expertise
 
 - 🔹 Test Automation (Selenium / Appium / Cucumber)

@@ -52,14 +52,6 @@
 
 ---
 
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MelihInceoglu&theme=react-dark" />
-</p>
-
----
-
 ## 🧰 Tools & Expertise
 
 - 🔹 Test Automation (Selenium / Appium / Cucumber)

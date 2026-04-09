@@ -1,4 +1,3 @@
-<!-- HEADER -->
 # 👋 Hi, I'm Melih INCEOGLU  
 
 <p align="center">
@@ -11,7 +10,7 @@
 
 📍 Turkey  
 💼 Project Manager | Test Automation Engineer  
-🧪 Passionate about QA Automation, CI/CD and Scalable Systems  
+🧪 Focused on QA Automation, CI/CD and Scalable Systems  
 📫 Contact: **info@melihinceoglu.com**  
 🔗 LinkedIn: [Profile](https://www.linkedin.com/in/melihinceoglu/)
 
@@ -57,14 +56,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MelihInceoglu&theme=react-dark" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---

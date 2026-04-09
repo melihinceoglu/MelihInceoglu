@@ -62,18 +62,3 @@
 
 </p>
 
----
-
-<details>
- <summary>💡 GitHub Stats</summary>
- <br>
- <img src="https://github-readme-stats.vercel.app/api?username=MelihInceoglu&theme=radical"/>
-</details>
-
-<br>
-
-<details>
- <summary>💡 Most Used Languages</summary>
- <br>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelihInceoglu&layout=compact"/>
-</details>
